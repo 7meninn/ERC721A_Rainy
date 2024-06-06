@@ -1,6 +1,7 @@
 # Rainy NFT Collection (RNY)
 
-### Contract Address (Sepolia Testnet): *To be deployed* 
+### Contract Address (Sepolia Testnet): 0x159E0D41FF257c5c5619a34cd36525a4252D9F1A
+### Bridged Contract Address (Amoy Testnet): 0x25aCfC149CEF7f949e92E87Bf9e11dd82dBfe219
 
 ## Description
 

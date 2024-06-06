@@ -73,8 +73,13 @@
 * The contract supports batch minting and includes restrictions to ensure fair distribution, such as a maximum mint limit per address.
 
 ## Help
-For any assistance or inquiries, please contact the author through [email.](mailto:bimaltyagi333@gmail.com)
-Author
-Bimal Tyagi
-License
-This project is licensed under the MIT License. See the [LICENSE.md](License.md) file for details
+
+* For any assistance or inquiries, please contact the author through [email.](mailto:bimaltyagi333@gmail.com).
+
+## Author
+
+* Bimal Tyagi
+
+## License
+
+* This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
